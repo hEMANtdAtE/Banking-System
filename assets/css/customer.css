@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #B5D5C5 ;
+}
+/* navbar css starts here  */
+.bg-light{
+    background-color: #F5F5F5!important;
+}
+
+.table thead th {
+    font-size: .95rem;
+    font-weight: 500;
+    color: #fafafa;
+    border-top-width: 0;
+    border-bottom-width: 1px;
+}
+.navbar-brand{
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 1.5rem;
+    color: #5f6368!important;
+}
+
+.nav-link{
+    color: #5f6368!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(137, 152, 165)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-infoo{
+    padding: 1rem 1.2rem;
+    background-color: rgb(137, 152, 165)!important;
+    color: #fff!important;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-infoo:hover{
+    background-color: #4E6C50!important;
+    border-top-left-radius: 0.5cm;
+    border-bottom-left-radius: 0.5cm;
+}
+.btn-info:hover{
+    background-color: #4E6C50!important;
+    border-top-right-radius: 0.5cm;
+    border-bottom-right-radius: 0.5cm;
+}
